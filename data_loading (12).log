@@ -1,0 +1,11 @@
+2025-02-05 12:00:00 - INFO - Logging configured successfully. Log file: /kaggle/working/data_loading.log
+2025-02-05 12:00:02 - INFO - Stopped existing Spark session.
+2025-02-05 12:00:03 - INFO - Spark session started successfully.
+2025-02-05 12:05:00 - INFO - Data read successfully.
+2025-02-05 12:05:15 - INFO - Data repartitioned successfully.
+2025-02-05 12:05:30 - INFO - Displaying sample data...
+2025-02-05 12:05:35 - INFO - Checking for missing values...
+2025-02-05 12:10:00 - INFO - Saving processed data as Parquet...
+2025-02-05 12:15:00 - INFO - Data saved successfully.
+2025-02-05 12:16:00 - INFO - Data loading completed in 1 hour 16 minutes.
+2025-02-05 12:16:30 - INFO - Spark session stopped.
